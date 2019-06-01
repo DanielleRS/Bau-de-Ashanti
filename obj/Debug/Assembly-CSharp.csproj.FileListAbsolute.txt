@@ -1,0 +1,369 @@
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\nunit.framework.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEditor.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.xml
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEditor.xml
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\nunit.framework.xml
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\obj\Debug\Assembly-CSharp.dll
+C:\Users\arilt\Documents\Unity Projects\O Baú de Ashanti\obj\Debug\Assembly-CSharp.pdb
+C:\Jogos\bau att\O Baú de Ashanti\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Jogos\bau att\O Baú de Ashanti\obj\Debug\Assembly-CSharp.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\nunit.framework.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEditor.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.Cecil.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.DataContract.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.xml
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEditor.xml
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\nunit.framework.xml
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Jogos\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Jogos\bau att\O Baú de Ashanti\obj\Debug\Assembly-CSharp.pdb
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\obj\Debug\Assembly-CSharp.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\nunit.framework.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEditor.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Advertisements.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Purchasing.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.Cecil.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.DataContract.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.xml
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEditor.xml
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\nunit.framework.xml
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\Documentos\Documentos\bau att\bau att\O Baú de Ashanti\obj\Debug\Assembly-CSharp.pdb
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\obj\Debug\Assembly-CSharp.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\nunit.framework.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEditor.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.xml
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEditor.xml
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\nunit.framework.xml
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\arilt\Documents\Unity Projects\2048\bau att\bau att\O Baú de Ashanti\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Danielle\Desktop\bau att\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Danielle\Desktop\bau att\obj\Debug\Assembly-CSharp.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Danielle\Desktop\bau att\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Danielle\Desktop\bau att\obj\Debug\Assembly-CSharp.pdb
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEditor.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEditor.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\obj\Debug\Assembly-CSharp.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\obj\Debug\Assembly-CSharp.pdb
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\mscorlib.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\System.Core.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\System.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\System.Xml.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.WebGLModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.WebModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityScript.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.SpatialTrackingModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.WebModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\arilt\Documents\Projeto Jogo Memoria\bau2205\bau att\obj\Debug\Assembly-CSharp.csproj.CopyComplete

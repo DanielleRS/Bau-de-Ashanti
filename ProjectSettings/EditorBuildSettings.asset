@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Abertura.unity
+    guid: d056556084ab1524f87c16272fcc34ac
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 032c8967aa803fd4a8cb05aa20fce89d
+  - enabled: 1
+    path: Assets/Scenes/Intro1.unity
+    guid: 6e8f9a3d576c62d44a3f360adf4c1cb1
+  - enabled: 1
+    path: Assets/Scenes/Intro2.unity
+    guid: 9a7a98c5f3b58d44a9c3d3645d6a7017
+  - enabled: 1
+    path: Assets/Scenes/Intro3.unity
+    guid: 28a80d631e0906849a52dc03d30a37b4
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: d57d50daa68eed84fbf498ee4bb9e0a7
+  - enabled: 1
+    path: Assets/Scenes/Mapa.unity
+    guid: 81b39727ec658194a9dff0a3309efb1e
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 14363155bd026b54cb9ce3f154ace344
+  - enabled: 1
+    path: Assets/Scenes/GameAmericaNorte.unity
+    guid: 27299825dc6620445b51a35d530068a9
+  - enabled: 1
+    path: Assets/Scenes/GameAmericaSul.unity
+    guid: cd3ff0fc63534d8499b5a5d29be02e4b
+  - enabled: 1
+    path: Assets/Scenes/GameAfrica.unity
+    guid: 65c6d0c256aaa3c4d8bd0701d29dbafc

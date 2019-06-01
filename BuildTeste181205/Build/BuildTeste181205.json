@@ -1,0 +1,14 @@
+{
+"companyName": "ProjetoUFOP",
+"productName": "O Baú de Ashanti",
+"dataUrl": "BuildTeste181205.data.unityweb",
+"asmCodeUrl": "BuildTeste181205.asm.code.unityweb",
+"asmMemoryUrl": "BuildTeste181205.asm.memory.unityweb",
+"asmFrameworkUrl": "BuildTeste181205.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "BuildTeste181205.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF"
+}
